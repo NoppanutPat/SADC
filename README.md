@@ -12,4 +12,5 @@
 # About file
 
 - Licence
+  - This is licence. If you want to use our code please follow this licence.
 
