@@ -28,4 +28,27 @@
       - This is a library that we download from https://github.com/rsc1975/micropython-hcsr04
     - station1.py , station2.py , station3.py
       - This is a micropython code for each station
+      
+## Instrument
+
+### Hardware
+- Nucleo L432KC
+- ESP32
+- HC-SR04 (Ultrasonic sensor)
+- Gear motor 12V 100RPM
+- BTS7960 (Motor Driver)
+- LCD screen
+- OLED screen
+- LED
+- Microservo SG90
+
+## Software
+- Micropython library
+  - HC-SR04
+- Mbed library
+  - Adafruit_GFX for MBED
+  - Servo for MBED
+  - mbed-os for MBED
+  - IBT2 for MED
+
 
