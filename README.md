@@ -6,7 +6,7 @@
 - Noppanut Thongton 6010502616
 - Wararit Hongkamnerd 601050
 - Sarin Limkul 601050
-- Saranpat Lawang 601050
+- Saranpat Lawang 6010502683
 
 
 ## About file
