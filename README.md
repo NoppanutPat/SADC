@@ -13,4 +13,7 @@
 
 - Licence
   - This is licence. If you want to use our code please follow this licence.
+- Schematic
+  - This is a schematic picture of our project
+- 
 
