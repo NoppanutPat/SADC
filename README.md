@@ -17,5 +17,8 @@
   - This is a schematic picture of our project
 - Source code
   - MBED_code
-    - Car is a full code if car for mbed software
+    - Car
+      - This is a full code of car for mbed software
+    - Station
+      - This is a full code of station for mbed software
 
